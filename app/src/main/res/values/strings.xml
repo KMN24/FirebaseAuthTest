@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="open_firebase_activity">Open FireBase Activity</string>
+    <string name="read">READ</string>
+    <string name="save">SAVE</string>
+    <string name="email">Email</string>
+    <string name="second_name">Second Name</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="sign_up">ЗАРЕГИСТРИРОВАТЬСЯ</string>
+    <string name="sign_in">ВОЙТИ</string>
+</resources>
